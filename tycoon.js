@@ -2,7 +2,7 @@
 // 0. Game Constants and Setup (상수 및 초기 설정)
 // -----------------------------------------------------------
 
-const LOCAL_STORAGE_KEY = 'cookieTycoonData_v12'; // 버전 변경 (버그 수정)
+const LOCAL_STORAGE_KEY = 'cookieTycoonData_v4'; // 버전 변경 (버그 수정)
 const ENDING_GOAL = 1e18;
 const BUFF_DURATION_SECONDS = 60;
 const BUFF_CPS_MULTIPLIER = 5;
